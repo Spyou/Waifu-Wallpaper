@@ -1,4 +1,4 @@
-# wpp
+# Waifu Wallpaper with Getx
 
 A new Flutter project.
 
